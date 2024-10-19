@@ -1,0 +1,25 @@
+img {
+    width: 100%;
+
+}
+nav a, nav li{
+    color:magenta;
+}
+h1 {
+    font-size: seize 40px;
+}
+body {
+font-family: Arial, sans-serif;
+}
+.mot {
+color: pink;
+}
+.italic{
+    font-style: italic;
+}
+.underline{
+    text-decoration: underline;
+}
+.bold{
+    font-style: bold;
+}
